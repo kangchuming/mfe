@@ -1,0 +1,3 @@
+[submodule "mfe"]
+	path = mfe
+	url = git@github.com:kangchuming/mfe.git
